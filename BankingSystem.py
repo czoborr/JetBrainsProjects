@@ -1,4 +1,5 @@
-# Write your code here
+# Simple banking system that will generate a card number and PIN code upon request and stores it in a SQL database. Users can transfer money between each other or add revenue.
+
 from random import randint
 import sqlite3
 
