@@ -1,3 +1,5 @@
+# A simple matrix calculator to transpose, invert, add and multiply matrices without numpy. Input of the matrices has to be done line-by-line, numbers being separated by spaces.
+
 from copy import deepcopy
 
 
